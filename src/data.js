@@ -1,4 +1,4 @@
-const studentData =[
+let studentData =[
     {
         name: 'david',
         email: 'nwae@gmail.com',
