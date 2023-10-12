@@ -1,4 +1,4 @@
-let studentData =[
+export let students = [
     {
         name: 'david',
         email: 'nwae@gmail.com',
@@ -19,9 +19,5 @@ let studentData =[
         id: 3,
         matricNo: "19080522"
     }
-        
-        ]
 
-module.exports = {
-    studentData
-}
+]
